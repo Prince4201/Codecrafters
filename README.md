@@ -1,1 +1,1 @@
-# MathsWizard
+# Codecrafters
